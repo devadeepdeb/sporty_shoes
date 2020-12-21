@@ -1,0 +1,16 @@
+package com.api.sportyshoes.sporty_shoes.repository;
+
+import java.util.Date;
+import java.util.List;
+
+
+import org.springframework.stereotype.Repository;
+
+import com.api.sportyshoes.sporty_shoes.model.PurchaseReport;
+
+@Repository
+public interface PurchaseReportRepository extends JpaRepository<PurchaseReport, Integer>{
+	public List<PurchaseReport> findByDop(Date dop);
+	public List<PurchaseReport> findByCategory(String category);
+
+}

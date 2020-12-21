@@ -1,0 +1,5 @@
+package com.api.sportyshoes.sporty_shoes.controller;
+
+public class CRUDController {
+
+}

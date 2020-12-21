@@ -1,0 +1,5 @@
+package com.api.sportyshoes.sporty_shoes.exceptionHandler;
+
+public class BusinessException {
+
+}

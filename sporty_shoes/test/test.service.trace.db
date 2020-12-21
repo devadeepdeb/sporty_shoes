@@ -1,0 +1,3 @@
+2020-12-20 13:49:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SHOE" not found; SQL statement:
+select shoe0_.id as id1_1_0_, shoe0_.category as category2_1_0_, shoe0_.name as name3_1_0_, shoe0_.price as price4_1_0_ from shoe shoe0_ where shoe0_.id=? [42102-200]
