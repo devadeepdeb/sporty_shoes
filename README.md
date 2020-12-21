@@ -4,9 +4,9 @@
 
 | Java | 1.8 |
 | ------ | ------- |
-| Spring Boot | 2.2.10 |
+| Spring Boot | 2.4.1 |
 | Lombok  | --- |
-| Swagger-ui | 2.7.0 |
+| Swagger-ui | 2.9.2 |
 | H2 | --- |
 | JPA | --- |
 | Spring Security Starter | --- | 
@@ -64,8 +64,5 @@ It can be extended to utilize many-to-many relationship b/w Shoe and PurchaseRep
 
 Also for admin authentication spring-security-starter has been used with credentials saved in `application.properties` file.
 
-## Docs
-For complete docs please use the docs folder in project directory.
-
-Or Visit:[Docs Website](https://manish-baghel.github.io/sporty_shoes/)
+Swagger UI still needs to be implemented properly in this application.
 ‰
