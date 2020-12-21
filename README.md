@@ -65,4 +65,8 @@ It can be extended to utilize many-to-many relationship b/w Shoe and PurchaseRep
 Also for admin authentication spring-security-starter has been used with credentials saved in `application.properties` file.
 
 Swagger UI still needs to be implemented properly in this application.
+
+## Project Structure
+
+Outputs will be in 'Images' file
 ‰
